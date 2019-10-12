@@ -1,1 +1,1 @@
-This repository contains the build results of Travis CI continuous integration. Each branch contains an individual build.
+This repository contains the build results of Travis CI continuous integration.
